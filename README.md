@@ -10,4 +10,4 @@ Gets data from facebook.
     git submodule update
 
 ### To install Facebook Python SDK
-sudo pip install -e git+https://github.com/pythonforfacebook/facebook-sdk.git#egg=facebook-sdk
+    sudo pip install -e git+https://github.com/pythonforfacebook/facebook-sdk.git#egg=facebook-sdk
